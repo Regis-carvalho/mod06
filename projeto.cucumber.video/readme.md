@@ -24,7 +24,7 @@ Siga os passos abaixo para instalar e executar os teste:
 1. Clone repositório para o seu ambiente local.
 2. Navegue até a raiz do projeto e execute o comando: mvn test=Executa
 
-#Relatório de Testes
+## Relatório de Testes
 
 Após a execução dos testes de automação, vpcê pode acessar o relatório gerado com informações bem-sucedidos, falhas estatisticas de execução
 Para acessar o relatório nafegue até a pasta target na raiz do projeto local no seu computador.
